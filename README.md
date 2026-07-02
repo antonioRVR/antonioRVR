@@ -1,17 +1,20 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Antonio!&fontSize=50)
 
-###  About me
-- 🎯 Currently focused on **Data & AI on Cloud Enviroments**.
-- 🛠️ Passionated about analyzing different points of view and finding the most efficient to solve problems
-- ⚡ Interest: technology, science, history, calisthenics
+## 📌 About Me
+- 🎯 Currently focused on **Data & AI on Cloud Environments**.
+- 🛠️ Passionate about analyzing different points of view to find the most efficient solution to problems.
+- ⚡ Interests: Technology, Science, History, and Calisthenics.
 
-### 🛠️ Technologies and tools
+---
+
+### 🛠️ Technologies and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 📜 Certifications
 
