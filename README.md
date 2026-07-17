@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Antonio!&fontSize=50)
+![Banner animado](./HI,%20I'M%20ANTONIO!.gif)
 
 ## 📌 About Me
 - 🎯 Currently focused on **Data & AI on Cloud Environments**.
